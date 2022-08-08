@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_pictures_pictures",
+  "info": {
+    "displayName": "pictures",
+    "icon": "images"
+  },
+  "options": {},
+  "attributes": {
+    "source": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "alt": {
+      "type": "string"
+    }
+  }
+}
