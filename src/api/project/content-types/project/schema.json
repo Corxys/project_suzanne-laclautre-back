@@ -19,7 +19,7 @@
     },
     "year": {
       "type": "biginteger",
-      "unique": true,
+      "unique": false,
       "required": true,
       "default": "2022"
     },
